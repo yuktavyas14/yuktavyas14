@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34871963/README.md)
 <p align="center">
   <img width="100%" src="./banner.svg" alt="Yukta Vyas: Full Stack Developer (Java, Spring Boot, Angular)"/>
 </p>
