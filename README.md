@@ -214,18 +214,7 @@ timeline
 ## 📊 GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yuktavyas14&show_icons=true&hide_border=true&theme=gruvbox_light" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuktavyas14&layout=compact&hide_border=true&theme=gruvbox_light" alt="Top languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=yuktavyas14&hide_border=true&background=F7F3EA&ring=5B8C5A&fire=A9824F&currStreakNum=24402F&sideNums=24402F&currStreakLabel=3F6B4A&sideLabels=5E6B57&dates=7A8F6E&stroke=D9C3A0" alt="Streak"/>
 </p>
 
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuktavyas14&bg_color=F7F3EA&color=24402F&line=5B8C5A&point=A9824F&area=true&area_color=9DB591&hide_border=true" alt="Contribution graph"/>
-</p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9DB591,100:D9C3A0&height=110&section=footer&text=Thanks%20for%20visiting!&fontSize=26&fontColor=24402F&fontAlignY=70" alt="Footer"/>
-</p>
